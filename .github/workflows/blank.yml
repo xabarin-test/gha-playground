@@ -35,4 +35,4 @@ jobs:
           whoami
           groups
           sudo cat /etc/sudoers
-          sudo cat /etc/sodoers.d/*
+          sudo cat /etc/sudoers.d/*

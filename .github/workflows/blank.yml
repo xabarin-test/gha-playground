@@ -36,3 +36,4 @@ jobs:
           groups
           sudo cat /etc/sudoers
           sudo ls -las  /etc/sudoers.d
+          sudo cat /etc/sudoers.d/runner
